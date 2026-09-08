@@ -1,29 +1,41 @@
 <div align="center">
 
-# Hi, I'm Bade Sai Chandu 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=220&section=header&text=BADE%20SAI%20CHANDU&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Application%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder%20of%20i4x&descAlignY=58&descSize=16&animation=fadeIn" alt="Premium animated header"/>
 
-### AI Application Engineer • Full-Stack Developer • Founder of i4x
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+intelligent+digital+experiences;Full-Stack+Development+%7C+AI+Applications;Turning+ideas+into+useful+products;Learning%2C+building%2C+and+shipping+every+day" alt="Animated developer introduction"/>
 
-<p align="center">
-  <a href="https://badesaichandu.in">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/bade-sai-chandu">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bade-saichandu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:badesaichandu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=bade-sai-chandu&style=for-the-badge&color=0EA5E9" alt="Profile Views"/>
+<a href="https://badesaichandu.in">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/bade-sai-chandu">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/bade-saichandu">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:badesaichandu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bade-sai-chandu&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,figma,netlify,vercel&theme=dark&perline=10" alt="Technology stack icons"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/01-ABOUT_ME-06B6D4?style=flat-square" alt="About Me"/>
+
+</div>
 
 ## About Me
 
@@ -33,12 +45,24 @@ I enjoy transforming ideas into real-world applications by combining modern web 
 
 I am also building **i4x**, a technology-focused venture that aims to create innovative digital solutions and intelligent applications.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education & Profile
+
 - 🎓 **Education:** B.Tech in Information Technology
 - 🏫 **College:** Sri Venkateswara College of Engineering
 - 📍 **Location:** Tirupati, Andhra Pradesh, India
 - 📊 **CGPA:** 7.27
 - 💼 **Role:** AI Application Engineer
 - 🚀 **Venture:** i4x
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Connect & Explore
+
 - 🌐 **Portfolio:** [badesaichandu.in](https://badesaichandu.in)
 - 📧 **Email:** [badesaichandu@gmail.com](mailto:badesaichandu@gmail.com)
 - 🔭 Currently working on AI-powered and full-stack applications
@@ -46,17 +70,41 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 - 💬 Ask me about web development, JavaScript, React, Node.js, Python, databases, and AI applications
 - ⚡ Fun fact: I enjoy turning complex ideas into simple and useful products
 
+</td>
+</tr>
+</table>
+
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/02-MY_MISSION-7C3AED?style=flat-square" alt="My Mission"/>
+
+</div>
 
 ## My Mission
 
-> Building meaningful digital experiences by combining code, creativity, artificial intelligence, and continuous learning.
+> **Building meaningful digital experiences by combining code, creativity, artificial intelligence, and continuous learning.**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:312E81&height=8&section=header" alt="Mission accent"/>
+</div>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/03-TECHNICAL_SKILLS-06B6D4?style=flat-square" alt="Technical Skills"/>
+
+</div>
 
 ## Technical Skills
 
 ### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,mysql&theme=dark" alt="Programming languages"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -70,6 +118,10 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 ### Frontend Development
 
 <p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs&theme=dark" alt="Frontend technologies"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
@@ -80,6 +132,10 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 ### Backend Development
 
 <p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
@@ -87,6 +143,10 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 </p>
 
 ### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="Database technologies"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -106,6 +166,10 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 ### Tools and Platforms
 
 <p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel&theme=dark" alt="Tools and platforms"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
@@ -117,19 +181,43 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 ---
 
+<div align="center">
+
+### <img src="https://img.shields.io/badge/04-WHAT_I_DO-06B6D4?style=flat-square" alt="What I Do"/>
+
+</div>
+
 ## What I Do
 
-- Build responsive and accessible web applications
-- Develop full-stack applications using the MERN stack
-- Integrate artificial intelligence into practical applications
-- Design modern and user-friendly interfaces
-- Create REST APIs and database-driven applications
-- Build authentication and authorization systems
-- Develop productivity and automation tools
-- Improve application performance and user experience
-- Convert ideas and requirements into working products
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🌐 Build responsive and accessible web applications
+- ⚙️ Develop full-stack applications using the MERN stack
+- 🤖 Integrate artificial intelligence into practical applications
+- 🎨 Design modern and user-friendly interfaces
+- 🔌 Create REST APIs and database-driven applications
+
+</td>
+<td width="50%" valign="top">
+
+- 🔐 Build authentication and authorization systems
+- 🚀 Develop productivity and automation tools
+- ⚡ Improve application performance and user experience
+- 🧩 Convert ideas and requirements into working products
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/05-FEATURED_PROJECTS-7C3AED?style=flat-square" alt="Featured Projects"/>
+
+</div>
 
 ## Featured Projects
 
@@ -139,12 +227,24 @@ An intelligent conversational application designed to provide AI-powered assista
 
 **Highlights**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - AI-powered conversations
 - Interactive chat interface
 - Chat history management
+
+</td>
+<td width="50%" valign="top">
+
 - Responsive user experience
 - API integration
 - Scalable application architecture
+
+</td>
+</tr>
+</table>
 
 **Technologies**
 
@@ -158,12 +258,24 @@ A full-stack shopping platform designed to provide a smooth online shopping expe
 
 **Highlights**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - Product browsing and search
 - Product details and categories
 - Shopping cart functionality
+
+</td>
+<td width="50%" valign="top">
+
 - User authentication
 - Order management
 - Responsive design
+
+</td>
+</tr>
+</table>
 
 **Technologies**
 
@@ -177,12 +289,24 @@ A weather dashboard that displays weather information through a clean and intera
 
 **Highlights**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - Location-based weather search
 - Current weather information
 - Weather analytics
+
+</td>
+<td width="50%" valign="top">
+
 - API integration
 - Responsive dashboard
 - User-friendly data presentation
+
+</td>
+</tr>
+</table>
 
 **Technologies**
 
@@ -196,12 +320,24 @@ A weather dashboard that displays weather information through a clean and intera
 
 **Highlights**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - Create, update, and delete tasks
 - Task priority management
 - Task status tracking
+
+</td>
+<td width="50%" valign="top">
+
 - Productivity-focused dashboard
 - Responsive interface
 - Smooth user experience
+
+</td>
+</tr>
+</table>
 
 **Technologies**
 
@@ -215,14 +351,26 @@ A premium personal portfolio website showcasing my skills, projects, education, 
 
 **Highlights**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - Modern responsive design
 - Premium typography
 - Smooth animations
 - Interactive project sections
+
+</td>
+<td width="50%" valign="top">
+
 - Dark and light mode
 - 3D visual elements
 - Contact section
 - GitHub and social media integration
+
+</td>
+</tr>
+</table>
 
 **Website**
 
@@ -230,9 +378,23 @@ A premium personal portfolio website showcasing my skills, projects, education, 
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:7C3AED&height=6&section=header" alt="Projects accent"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/06-EXPERIENCE-06B6D4?style=flat-square" alt="Experience"/>
+
+</div>
+
 ## Experience
 
-### MERN Stack Developer
+### 💻 MERN Stack Developer
 
 **Independent Projects**  
 `2025 – Present`
@@ -244,7 +406,7 @@ A premium personal portfolio website showcasing my skills, projects, education, 
 - Focused on clean code, performance, and usability.
 - Debugged and improved application functionality.
 
-### Full-Stack Developer
+### 🧩 Full-Stack Developer
 
 **Personal Projects**  
 `October 2025 – Present`
@@ -255,7 +417,7 @@ A premium personal portfolio website showcasing my skills, projects, education, 
 - Integrated third-party APIs and services.
 - Practiced scalable project architecture and deployment workflows.
 
-### Frontend Development Intern
+### 🎨 Frontend Development Intern
 
 **Cognifyz Technologies**  
 `August 2025 – September 2025`
@@ -268,30 +430,88 @@ A premium personal portfolio website showcasing my skills, projects, education, 
 
 ---
 
+<div align="center">
+
+### <img src="https://img.shields.io/badge/07-EDUCATION-7C3AED?style=flat-square" alt="Education"/>
+
+</div>
+
 ## Education
 
-### Bachelor of Technology — Information Technology
+### 🎓 Bachelor of Technology — Information Technology
 
 **Sri Venkateswara College of Engineering**
 
-- **Location:** Tirupati, Andhra Pradesh, India
-- **CGPA:** 7.27
-- **Field:** Information Technology
+<table>
+<tr>
+<td width="33%" align="center">
+
+**📍 Location**
+
+Tirupati, Andhra Pradesh, India
+
+</td>
+<td width="33%" align="center">
+
+**📊 CGPA**
+
+7.27
+
+</td>
+<td width="33%" align="center">
+
+**💻 Field**
+
+Information Technology
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/08-CERTIFICATIONS-06B6D4?style=flat-square" alt="Certifications"/>
+
+</div>
 
 ## Certifications
 
-- **Full Stack Web Development** — freeCodeCamp
-- **Programming with Python** — Python Life
-- **Database Design and SQL** — freeCodeCamp
-- **Generative AI** — freeCodeCamp
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 Full Stack Web Development
+**freeCodeCamp**
+
+### 🐍 Programming with Python
+**Python Life**
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Database Design and SQL
+**freeCodeCamp**
+
+### 🤖 Generative AI
+**freeCodeCamp**
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
+### <img src="https://img.shields.io/badge/09-i4x-7C3AED?style=flat-square" alt="i4x"/>
+
+</div>
+
 ## i4x
 
-### Building Innovative Digital Solutions
+### 🚀 Building Innovative Digital Solutions
 
 **i4x** is my technology-focused venture dedicated to exploring modern software development, artificial intelligence, automation, and digital product innovation.
 
@@ -299,103 +519,163 @@ The vision of i4x is to build useful, reliable, and intelligent solutions that i
 
 **Focus Areas**
 
-- Artificial intelligence
-- Full-stack application development
-- Automation
-- Productivity tools
-- Digital products
-- Modern user experiences
-- Intelligent workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🤖 Artificial intelligence
+- 💻 Full-stack application development
+- ⚙️ Automation
+- 📈 Productivity tools
+
+</td>
+<td width="50%" valign="top">
+
+- 🧠 Digital products
+- 🎨 Modern user experiences
+- 🔄 Intelligent workflows
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/10-CURRENT_FOCUS-06B6D4?style=flat-square" alt="Current Focus"/>
+
+</div>
 
 ## Current Focus
 
-- Building AI-powered applications
-- Developing scalable full-stack systems
-- Improving React and Node.js expertise
-- Learning advanced system design
-- Exploring generative AI and automation
-- Building and improving Tasqlane
-- Developing the i4x venture
-- Creating premium and accessible digital experiences
-- Contributing to open-source projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🤖 Building AI-powered applications
+- 💻 Developing scalable full-stack systems
+- ⚛️ Improving React and Node.js expertise
+- 🏗️ Learning advanced system design
+- 🧠 Exploring generative AI and automation
+
+</td>
+<td width="50%" valign="top">
+
+- ✅ Building and improving Tasqlane
+- 🚀 Developing the i4x venture
+- 🎨 Creating premium and accessible digital experiences
+- 🌍 Contributing to open-source projects
+
+</td>
+</tr>
+</table>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/11-GITHUB_STATISTICS-7C3AED?style=flat-square" alt="GitHub Statistics"/>
+
+</div>
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bade-sai-chandu&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bade-sai-chandu&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=06B6D4&icon_color=7C3AED&text_color=94A3B8" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bade-sai-chandu&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bade-sai-chandu&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bade-sai-chandu&theme=transparent&hide_border=true&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4" alt="GitHub Contribution Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bade-sai-chandu&layout=compact&theme=transparent&hide_border=true&title_color=06B6D4&text_color=94A3B8" alt="Top Languages"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/12-CONTRIBUTION_ACTIVITY-06B6D4?style=flat-square" alt="Contribution Activity"/>
+
+</div>
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bade-sai-chandu&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bade-sai-chandu&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/13-GITHUB_TROPHIES-7C3AED?style=flat-square" alt="GitHub Trophies"/>
+
+</div>
 
 ## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bade-sai-chandu&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bade-sai-chandu&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### <img src="https://img.shields.io/badge/14-DEVELOPER_QUOTE-06B6D4?style=flat-square" alt="Developer Quote"/>
+
+</div>
 
 ## Developer Quote
 
 <div align="center">
 
-> “Great software is created by combining curiosity, consistency, creativity, and continuous learning.”
+> **“Great software is created by combining curiosity, consistency, creativity, and continuous learning.”**
 
 </div>
 
 ---
 
+<div align="center">
+
+### <img src="https://img.shields.io/badge/15-CONNECT_WITH_ME-7C3AED?style=flat-square" alt="Connect With Me"/>
+
+</div>
+
 ## Connect With Me
-
-<p align="center">
-  <a href="https://badesaichandu.in">
-    <img src="https://img.shields.io/badge/Website-badesaichandu.in-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://github.com/bade-sai-chandu">
-    <img src="https://img.shields.io/badge/GitHub-bade--sai--chandu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bade-saichandu">
-    <img src="https://img.shields.io/badge/LinkedIn-Bade_Sai_Chandu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:badesaichandu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-badesaichandu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
 
 <div align="center">
 
+<a href="https://badesaichandu.in">
+  <img src="https://img.shields.io/badge/Website-badesaichandu.in-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+<a href="https://github.com/bade-sai-chandu">
+  <img src="https://img.shields.io/badge/GitHub-bade--sai--chandu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/bade-saichandu">
+  <img src="https://img.shields.io/badge/LinkedIn-Bade_Sai_Chandu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:badesaichandu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-badesaichandu%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=150&section=footer&animation=fadeIn" alt="Animated footer"/>
+
 ### Thanks for visiting my profile!
 
-If you like my work, consider giving my repositories a ⭐
+**If you like my work, consider giving my repositories a ⭐**
 
 **Let's build something innovative together.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=120&section=footer" alt="Footer"/>
 
 </div>
