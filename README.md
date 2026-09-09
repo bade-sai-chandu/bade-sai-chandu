@@ -70,6 +70,7 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 ## My Mission
 
+> [!TIP]
 > **Building meaningful digital experiences by combining code, creativity, artificial intelligence, and continuous learning.**
 
 ---
@@ -155,6 +156,7 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 <div align="center">
 
+> [!IMPORTANT]
 > **"Great software is created by combining curiosity, consistency, creativity, and continuous learning."**
 
 </div>
