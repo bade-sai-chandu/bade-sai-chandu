@@ -121,11 +121,11 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bade-sai-chandu&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img src="https://img.shields.io/github/followers/bade-sai-chandu?style=for-the-badge&color=0EA5E9&logo=github&logoColor=white&label=Followers" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bade-sai-chandu&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Public Repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bade-sai-chandu&label=Public%20Gists&query=%24.public_gists&style=for-the-badge&color=0EA5E9&logo=github&logoColor=white" alt="Public Gists"/>
 
-<img src="https://streak-stats.demolab.com/?user=bade-sai-chandu&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bade-sai-chandu&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 </div>
 
