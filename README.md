@@ -123,29 +123,9 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 <img src="https://github-readme-stats.vercel.app/api?username=bade-sai-chandu&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bade-sai-chandu&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=bade-sai-chandu&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bade-sai-chandu&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bade-sai-chandu&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bade-sai-chandu&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
