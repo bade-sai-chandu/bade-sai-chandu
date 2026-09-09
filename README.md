@@ -33,14 +33,34 @@ I enjoy transforming ideas into real-world applications by combining modern web 
 
 I am also building **i4x**, a technology-focused venture that aims to create innovative digital solutions and intelligent applications.
 
-- 🎓 **Education:** B.Tech in Information Technology
-- 🏫 **College:** Sri Venkateswara College of Engineering
-- 📍 **Location:** Tirupati, Andhra Pradesh, India
-- 📊 **CGPA:** 7.27
-- 💼 **Role:** AI Application Engineer
-- 🚀 **Venture:** i4x
-- 🌐 **Portfolio:** [badesaichandu.in](https://badesaichandu.in)
-- 📧 **Email:** [badesaichandu@gmail.com](mailto:badesaichandu@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/🎓_Education-B.Tech%20in%20Information%20Technology-0EA5E9?style=for-the-badge" alt="Education"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🏫_College-Sri%20Venkateswara%20College%20of%20Engineering-7C3AED?style=for-the-badge" alt="College"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/📍_Location-Tirupati%2C%20Andhra%20Pradesh%2C%20India-EA4335?style=for-the-badge" alt="Location"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/📊_CGPA-7.27-0F766E?style=for-the-badge" alt="CGPA"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/💼_Role-AI%20Application%20Engineer-111827?style=for-the-badge" alt="Role"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🚀_Venture-i4x-FF6C37?style=for-the-badge" alt="Venture"/>
+</p>
+<p>
+  <a href="https://badesaichandu.in">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-badesaichandu.in-0EA5E9?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+<p>
+  <a href="mailto:badesaichandu@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-badesaichandu%40gmail.com-EA4335?style=for-the-badge" alt="Email"/>
+  </a>
+</p>
 - 🔭 Currently working on AI-powered and full-stack applications
 - 🌱 Currently learning advanced system design, artificial intelligence, and scalable application development
 - 💬 Ask me about web development, JavaScript, React, Node.js, Python, databases, and AI applications
@@ -50,7 +70,7 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 ## My Mission
 
-> Building meaningful digital experiences by combining code, creativity, artificial intelligence, and continuous learning.
+> **Building meaningful digital experiences by combining code, creativity, artificial intelligence, and continuous learning.**
 
 ---
 
@@ -135,7 +155,7 @@ I am also building **i4x**, a technology-focused venture that aims to create inn
 
 <div align="center">
 
-> "Great software is created by combining curiosity, consistency, creativity, and continuous learning."
+> **"Great software is created by combining curiosity, consistency, creativity, and continuous learning."**
 
 </div>
 
