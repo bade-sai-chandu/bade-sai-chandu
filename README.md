@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bade Sai Chandu 👋
+# 𝐻𝑖, 𝐼'𝑚 𝐵𝑎𝑑𝑒 𝑆𝑎𝑖 𝐶ℎ𝑎𝑛𝑑𝑢 👋
 
 ### AI Application Engineer • Full-Stack Developer • Founder of i4x
 
@@ -27,11 +27,11 @@
 
 ## About Me
 
-Hello! I'm **Bade Sai Chandu**, an aspiring **AI Application Engineer** and full-stack developer passionate about building intelligent, scalable, and user-friendly digital products.
+𝐻𝑒𝑙𝑙𝑜! 𝐼'𝑚 𝑩𝒂𝒅𝒆 𝑺𝒂𝒊 𝑪𝒉𝒂𝒏𝒅𝒖, 𝑎𝑛 𝑎𝑠𝑝𝑖𝑟𝑖𝑛𝑔 𝑨𝑰 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝑎𝑛𝑑 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡, 𝑠𝑐𝑎𝑙𝑎𝑏𝑙𝑒, 𝑎𝑛𝑑 𝑢𝑠𝑒𝑟-𝑓𝑟𝑖𝑒𝑛𝑑𝑙𝑦 𝑑𝑖𝑔𝑖𝑡𝑎𝑙 𝑝𝑟𝑜𝑑𝑢𝑐𝑡𝑠.
 
-I enjoy transforming ideas into real-world applications by combining modern web technologies, artificial intelligence, clean design, and practical problem-solving.
+𝐼 𝑒𝑛𝑗𝑜𝑦 𝑡𝑟𝑎𝑛𝑠𝑓𝑜𝑟𝑚𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑟𝑒𝑎𝑙-𝑤𝑜𝑟𝑙𝑑 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛𝑠 𝑏𝑦 𝑐𝑜𝑚𝑏𝑖𝑛𝑖𝑛𝑔 𝑚𝑜𝑑𝑒𝑟𝑛 𝑤𝑒𝑏 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠, 𝑎𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒, 𝑐𝑙𝑒𝑎𝑛 𝑑𝑒𝑠𝑖𝑔𝑛, 𝑎𝑛𝑑 𝑝𝑟𝑎𝑐𝑡𝑖𝑐𝑎𝑙 𝑝𝑟𝑜𝑏𝑙𝑒𝑚-𝑠𝑜𝑙𝑣𝑖𝑛𝑔.
 
-I am also building **i4x**, a technology-focused venture that aims to create innovative digital solutions and intelligent applications.
+𝐼 𝑎𝑚 𝑎𝑙𝑠𝑜 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝒊4𝒙, 𝑎 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑦-𝑓𝑜𝑐𝑢𝑠𝑒𝑑 𝑣𝑒𝑛𝑡𝑢𝑟𝑒 𝑡ℎ𝑎𝑡 𝑎𝑖𝑚𝑠 𝑡𝑜 𝑐𝑟𝑒𝑎𝑡𝑒 𝑖𝑛𝑛𝑜𝑣𝑎𝑡𝑖𝑣𝑒 𝑑𝑖𝑔𝑖𝑡𝑎𝑙 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑠 𝑎𝑛𝑑 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛𝑠.
 
 <p>
   <img src="https://img.shields.io/badge/🎓_Education-B.Tech%20in%20Information%20Technology-0EA5E9?style=for-the-badge" alt="Education"/>
